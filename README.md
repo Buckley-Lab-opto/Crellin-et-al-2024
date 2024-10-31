@@ -1,9 +1,11 @@
 # Repository for Local optogenetic NMYII activation within the zebrafish neural rod results in long-range, asymmetric force propagation
+
+This repository contains the Fiji Macros, MATLAB and R code necessary for the analysis performed in 'Local optogenetic NMYII activation within the zebrafish neural rod results in long-range, asymmetric force propagation', (2024).
 Authors: Helena A Crellin; Chengxi Zhu; Guillermo Serrano-Nájera; Amelia Race; Kevin O'Holleran; Martin O Lenz; Clare Buckley
 DOI: https://doi.org/10.1101/2024.09.19.613826
 
-This repository contains the Fiji Macros, MATLAB and R code necessary for the analysis performed in Crellin et al., 2024.
-Code authors: Helena Crellin and Guillermo Serrano-Nájera 
+Code authors: 
+Helena Crellin and Guillermo Serrano-Nájera 
 Corresponding author contact: 
 Clare Buckley, clare.buckley-2@manchester.ac.uk
 
