@@ -3,6 +3,7 @@ Authors: Helena A Crellin; Chengxi Zhu; Guillermo Serrano-Nájera; Amelia Race; 
 DOI: https://doi.org/10.1101/2024.09.19.613826
 
 This repository contains the Fiji Macros, MATLAB and R code necessary for the analysis performed in Crellin et al., 2024.
+Code authors: Helena Crellin and Guillermo Serrano-Nájera 
 Corresponding author contact: 
 Clare Buckley, clare.buckley-2@manchester.ac.uk
 
