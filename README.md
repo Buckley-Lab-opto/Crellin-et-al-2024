@@ -6,9 +6,7 @@ Authors: Helena A Crellin; Chengxi Zhu; Guillermo Serrano-Nájera; Amelia Race; 
 
 DOI: https://doi.org/10.1101/2024.09.19.613826
 
-Corresponding author contact: 
-
-Clare Buckley, clare.buckley-2@manchester.ac.uk
+Corresponding author contact: clare.buckley-2@manchester.ac.uk
 
 ## Installation
 
